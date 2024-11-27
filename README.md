@@ -165,7 +165,7 @@ O resultado do código pode ser visualizado no layout abaixo:
 
 ## Conclusão
 
-Esta POC é uma demonstração prática da criação de uma aplicação modular e interativa com React e Next.js. O projeto apresenta:
+Em suma, essa POC contém:
 
 - Alternância de tema claro/escuro.
 - Gerenciamento eficiente de estados para seleção de assentos.
