@@ -154,15 +154,11 @@ npm start
 
 O resultado do código pode ser visualizado no layout abaixo:
 
-### Tema Principal - Claro
-
 ![image](https://github.com/user-attachments/assets/57a6e704-7bfb-45fb-8a4e-bec0d71a98a3)
 
 ![image](https://github.com/user-attachments/assets/9dfe54fc-0c29-4e58-9776-9a5b6023c20f)
 
 ![image](https://github.com/user-attachments/assets/46cda1c0-b87c-4c10-bb4a-673e5682ebd7)
-
-### Tema Principal - Escuro
 
 ![image](https://github.com/user-attachments/assets/571ad3cf-382f-4fb4-b6fd-3d5b21be2904)
 
